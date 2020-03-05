@@ -1,2 +1,2 @@
-# homebrew-tools
-A collection of useful tools
+# homebrew-tap
+A collection of useful tools via homebrew
